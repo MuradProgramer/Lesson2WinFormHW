@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Murad",
+    "Surname": "Musali",
+    "Patronymic": "Taleh",
+    "Country": "Azerbaijan",
+    "City": "Baku",
+    "Phone": "(070) 201-1828",
+    "Birthday": "11 января 2007 г.",
+    "IsMale": true
+  },
+  {
+    "Name": "Parvin",
+    "Surname": "Aliyev",
+    "Patronymic": "Vilayet",
+    "Country": "Azerbaijan",
+    "City": "Sumqayit",
+    "Phone": "(055) 299-2938",
+    "Birthday": "20 февраля 2005 г.",
+    "IsMale": true
+  },
+  {
+    "Name": "Tom",
+    "Surname": "Holland",
+    "Patronymic": "Brian",
+    "Country": "America",
+    "City": "New York",
+    "Phone": "(558) 867-2361",
+    "Birthday": "7 июля 2000 г.",
+    "IsMale": true
+  },
+  {
+    "Name": "Natasha",
+    "Surname": "Paulin",
+    "Patronymic": "Andrei",
+    "Country": "Russia",
+    "City": "Moscow",
+    "Phone": "(007) 652-2374",
+    "Birthday": "31 декабря 1995 г.",
+    "IsMale": false
+  }
+]

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\WinForms\Lesson2WFhomework\Lesson2WFhomework\bin\Debug\Lesson2WFhomework.exe.config
+C:\Users\User\Desktop\WinForms\Lesson2WFhomework\Lesson2WFhomework\bin\Debug\Lesson2WFhomework.exe
+C:\Users\User\Desktop\WinForms\Lesson2WFhomework\Lesson2WFhomework\bin\Debug\Lesson2WFhomework.pdb
+C:\Users\User\Desktop\WinForms\Lesson2WFhomework\Lesson2WFhomework\obj\Debug\Lesson2WFhomework.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WinForms\Lesson2WFhomework\Lesson2WFhomework\obj\Debug\Lesson2WFhomework.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\WinForms\Lesson2WFhomework\Lesson2WFhomework\obj\Debug\Lesson2WFhomework.Calculator.resources
+C:\Users\User\Desktop\WinForms\Lesson2WFhomework\Lesson2WFhomework\obj\Debug\Lesson2WFhomework.Properties.Resources.resources
+C:\Users\User\Desktop\WinForms\Lesson2WFhomework\Lesson2WFhomework\obj\Debug\Lesson2WFhomework.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WinForms\Lesson2WFhomework\Lesson2WFhomework\obj\Debug\Lesson2WFhomework.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WinForms\Lesson2WFhomework\Lesson2WFhomework\obj\Debug\Lesson2WFhomework.exe
+C:\Users\User\Desktop\WinForms\Lesson2WFhomework\Lesson2WFhomework\obj\Debug\Lesson2WFhomework.pdb
